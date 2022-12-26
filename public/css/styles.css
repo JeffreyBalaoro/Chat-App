@@ -1,6 +1,6 @@
 button,button:hover{
     border:none;
-    color:#fff;
+    color:rgb(237, 238, 240);
     padding:10px
 }
 .chat__messages,.chat__sidebar ul{
@@ -23,12 +23,12 @@ h3{
     font-size:1.5rem
 }
 button{
-    background:#0ba6f3;
+    background:#220bf398;
     cursor:pointer;
     transition:background .3s ease
 }
 button:hover{
-    background:#1F4C69
+    background:#052bd6
 }
 button:disabled{
     cursor:default;
@@ -45,11 +45,11 @@ button:disabled{
     background:-webkit-linear-gradient(125deg,rgba(39,107,130,1) 0,rgba(49,84,129,1) 100%);
     background:-o-linear-gradient(125deg,rgba(39,107,130,1) 0,rgba(49,84,129,1) 100%);
     background:-ms-linear-gradient(125deg,rgba(39,107,130,1) 0,rgba(49,84,129,1) 100%);
-    background:linear-gradient(325deg,rgba(39,107,130,1) 0,rgba(49,84,129,1) 100%)
+    background:linear-gradient(325deg,rgb(20, 46, 192) 0,rgb(111, 120, 131) 100%)
 }
 .centered-form__form{
-    background:rgba(250,250,250,.9);
-    border:1px solid #e1e1e1;
+    background:#7d7de7;
+    border:1px solid #bd0d0d;
     border-radius:5px;
     padding:0 20px;
     margin:20px;
