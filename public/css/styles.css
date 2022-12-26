@@ -28,11 +28,11 @@ button{
     transition:background .3s ease
 }
 button:hover{
-    background:#052bd6
+    background:#011a7a
 }
 button:disabled{
     cursor:default;
-    background:#698ea5
+    background:#547faa
 }
 .centered-form{
     display:flex;
